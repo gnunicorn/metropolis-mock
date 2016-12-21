@@ -1,0 +1,2 @@
+webpackJsonp([4,0],{42:function(t,o,f){t.exports=f.p+"static/fonts/fontawesome-webfont.674f50d.eot"},43:function(t,o,f){t.exports=f.p+"static/fonts/fontawesome-webfont.674f50d.eot"},44:function(t,o,f){t.exports=f.p+"static/fonts/fontawesome-webfont.b06871f.ttf"},45:function(t,o,f){t.exports=f.p+"static/fonts/fontawesome-webfont.af7ae50.woff2"},46:function(t,o,f){t.exports=f.p+"static/fonts/fontawesome-webfont.fee66e7.woff"},48:function(t,o,f){t.exports=f.p+"static/img/fontawesome-webfont.912ec66.svg"}});
+//# sourceMappingURL=fontawesome.d1a0b487100b6a96a847.js.map
